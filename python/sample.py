@@ -1,1 +1,1 @@
-print "Hello from python source code"
+print('Hello from python source code')
